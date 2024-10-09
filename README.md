@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Soaftware Engineer @ Accenture | Dec 2022 - Present
+* Developed AI use cases with React, CSS, and Bootstrap, deploying seamlessly on Azure and SAP BTP to enhance functionality.
+* Created and optimized PowerBI dashboards to deliver data-driven insights aligned with client needs.
+* Configured communication settings for SAP C4C V2, ensuring smooth system integration.
+* Designed website layouts and Figma wireframes, crafting industry-specific use cases to meet client requirements.
+* Produced professional presentations for clear project documentation and stakeholder alignment.
 <!--
 **yhashmi/yhashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
